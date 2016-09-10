@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"测试");
+    
+    NSLog(@"测试哈哈哈啊");
 }
 
 - (void)didReceiveMemoryWarning {
